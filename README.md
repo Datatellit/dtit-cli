@@ -96,10 +96,11 @@ npm install
 npm run dev
 ```
 
-执行上述命令后，默认浏览器会自动启动，并打开 **http://localhost:8000**，你对网页、样式、脚本、图片做的任何修改，一旦保存，浏览器会立即自动刷新当前页面。
+执行上述命令后，访问 **http://localhost:8000**  
+你对网页、样式、脚本、图片做的任何修改，一旦保存，浏览器会立即自动刷新当前页面。
 
 ## 开发说明
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)  
 使用内置模板，进行项目开发，应对以下内容略有了解
 * 拥有一定的前端基础  
 * [Vue](https://cn.vuejs.org/) (了解并掌握Vue基础使用)  
@@ -108,7 +109,7 @@ npm run dev
 * [Npm](https://docs.npmjs.com/) (了解依赖包的安装，卸载)  
 * [Webpack](https://webpack.js.org/) (了解webpack基础知识)
 * [ESLint](https://eslint.org/) (内置模板使用了Standard规则，此规则为Vue默认规则)  
-更多说明，参见[内置模板详情](##内置模板详情)
+更多说明，参见[内置模板详情](#内置模板详情)
 
 ## 打包发布
 
