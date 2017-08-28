@@ -6,7 +6,7 @@ const chalk = require('chalk')
 const fs = require('fs')
 
 module.exports = () => {
-    co(function *() {
+    co(function* () {
         // 接收用户输入的参数
         let tplName = yield prompt('Template name: ')
 
@@ -19,7 +19,7 @@ module.exports = () => {
         }
 
         // 写入template.json
-        fs.writeFile(__dirname + '/../templates.json', JSON.stringify(config),     'utf-8', (err) => {
+        fs.writeFile(__dirname + '/../templates.json', JSON.stringify(config), 'utf-8', (err) => {
             if (err) console.log(err)
             console.log(chalk.green('Template deleted!'))
             console.log(chalk.grey('The last template list is: \n'))
