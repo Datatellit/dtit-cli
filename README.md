@@ -151,7 +151,7 @@ Time: 32316ms
 [DTiT-FE-Desktop-AdminLTE](https://github.com/Datatellit/DTiT-FE-Desktop-AdminLTE.git)  
 [DTiT-FE-Desktop-ElementUI](https://github.com/Datatellit/DTiT-FE-Desktop-ElementUI.git)
 
-##FAQ
+## FAQ
 * 为什么我的开发工具不提示Vue的语法
 > 如果你使用的是WebStorm工具，需要安装Vue的插件支持，具体操作见下图  
 ![加添Vue插件](https://datatellit.github.io/DTiT-FE-Desktop-AdminLTE/dist/img/installvue.png)  
