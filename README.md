@@ -150,3 +150,14 @@ Time: 32316ms
 [DTiT-FE-Wechat](https://github.com/Datatellit/DTiT-FE-Wechat.git)  
 [DTiT-FE-Desktop-AdminLTE](https://github.com/Datatellit/DTiT-FE-Desktop-AdminLTE.git)  
 [DTiT-FE-Desktop-ElementUI](https://github.com/Datatellit/DTiT-FE-Desktop-ElementUI.git)
+
+##FAQ
+* 为什么我的开发工具不提示Vue的语法
+> 如果你使用的是WebStorm工具，需要安装Vue的插件支持，具体操作见下图  
+![加添Vue插件](https://datatellit.github.io/DTiT-FE-Desktop-AdminLTE/dist/img/installvue.png)  
+如果你是用的是其他开发工具，请自行查阅相关资料进行设置  
+
+* 为什么我使用ES6，开发工具报错
+> 如果你使用的是WebStorm工具，需要开启ES6的支持，具体操作见下图  
+![开启ES6](https://datatellit.github.io/DTiT-FE-Desktop-AdminLTE/dist/img/enablees6.png)  
+如果你是用的是其他开发工具，请自行查阅相关资料进行设置
