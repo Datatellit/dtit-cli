@@ -1,6 +1,6 @@
 {
   "name": "dtit-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "dtit前端构建脚手架",
   "main": "/bin/dtit-cli",
   "scripts": {
